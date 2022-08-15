@@ -1,14 +1,1 @@
-[
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    },
-    {
-        "title":"Call mom",
-        "text":"Tell her i love her"
-    },
-    {
-        "title":"Go to hardware store",
-        "text":"Pick up plywood"
-    }
-]
+[{"title":"Call Locksmith","text":"Ask about locks"},{"title":"Reply to Emails","text":"Ask Sally to reschedule meeting"},{"title":"Go to hardware store","text":"Pick up plywood"},{"title":"Go to park ","text":"Bring the dogs to have fun! ","id":"0.464821915058268"},{"title":"Change tire","text":"go to discount ","id":"0.46118636700095106"},{"title":"Finish Homework","text":"Lesson 18","id":"0.4855612529035782"}]
