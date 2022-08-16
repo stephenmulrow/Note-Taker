@@ -6,5 +6,7 @@ This is a Note Taker application where users can add various notes for different
 
 Link to live URL: 
 
+https://freenotetaker.herokuapp.com/notes
+
 
 
